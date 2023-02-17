@@ -1,0 +1,28 @@
+{ 
+  "description": "This unique one-of-a-kind digital artwork features a charming portrait of me teaching, captured with love by a proud big brother. As an NFT, this piece is authenticated on the blockchain, making it a valuable and irreplaceable asset. Don't miss your chance to own a piece of digital art history and add this precious creation to your collection.",
+  "external_url": "https://scontent.flos5-1.fna.fbcdn.net/v/t39.30808-6/329270652_708640637662329_5823003236452771802_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGL_0pjM_vbn0s1JGvyRN-fAoT2QJupexkChPZAm6l7GS61Xcqc4SQu8R87zJIR5sOWHrnSjXf4gtlGjw4dlhkA&_nc_ohc=fjd2zBNKTdMAX-Gx1Qv&_nc_zt=23&_nc_ht=scontent.flos5-1.fna&oh=00_AfA3XBgGHHRb0aLRn9KkldjqAJEdbNoPZxLZOuG8cjX_aQ&oe=63F251F3",
+  "image": "https://ipfs.filebase.io/ipfs/QmaWVmHneW5rHn5E7jJn8VwsAXSJ29TMsEkwTpUK6Eh86g",
+  "name": "GeeAkpan", 
+  "attributes": [
+    {
+        "trait_type": "Age",
+        "value": "Awesome"
+        },
+        {
+        "trait_type": "Gender",
+        "value": "Male"
+        },
+        {
+        "trait_type": "Eyes",
+        "value": "Brown"
+        },
+        {
+        "trait_type": "Hair",
+        "value": "Black"
+        },
+        {
+        "trait_type": "Smile",
+        "value": "Handsome"
+    }
+]
+  }
