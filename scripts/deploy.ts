@@ -2,10 +2,14 @@ import { ethers } from "hardhat"
 
 async function main() {
   
-  const GNifty = await ethers.getContractFactory("GNifty");
-  const deployGNifty = await GNifty.deploy();
-  await deployGNifty.deployed();
-  console.log(`The NFT has been deployed to ${deployGNifty.address}`);
+    const [owner, acct1, acct2, acct3] = await ethers.getSigners();
+    const Web3NFT = await ethers.getContractFactory("GNifty");
+    const deployWeb3NFT = await Web3NFT.deploy("GNifty", "GNFT");
+    await deployWeb3NFT.deployed();
+    console.log(`GeeAkpan NFT has been deployed to ${deployWeb3NFT.address}`);
+
+    // Successfully verified contract GNifty on Etherscan.
+    // https://goerli.etherscan.io/address/0x3Df847c8dd4887bc097c630CffFB10F4A7b10f24#code
 
   
 }

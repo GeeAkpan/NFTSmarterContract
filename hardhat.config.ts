@@ -20,7 +20,7 @@ const config: HardhatUserConfig = {
     }
   },
   etherscan: {
-    apiKey: process.env.ALCHEMY_API_URL,
+    apiKey: process.env.ETHERSCAN,
   },
 };
 
